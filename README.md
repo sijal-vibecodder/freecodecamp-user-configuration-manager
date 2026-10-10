@@ -1,4 +1,5 @@
-User Configuration Manager
+**User Configuration Manager**
+
 A Python project developed as part of the freeCodeCamp Python curriculum.
 
 Project Overview:
